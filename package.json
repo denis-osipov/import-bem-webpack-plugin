@@ -1,0 +1,29 @@
+{
+  "name": "import-bem-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Imports dependencies for BEM entities",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis-osipov/import-bem-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "BEM",
+    "dependency injection"
+  ],
+  "author": "Denis Osipov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denis-osipov/import-bem-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/denis-osipov/import-bem-webpack-plugin#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "pug-lexer": "^4.1.0",
+    "pug-parser": "^5.0.1",
+    "pug-walk": "^1.1.8"
+  }
+}
