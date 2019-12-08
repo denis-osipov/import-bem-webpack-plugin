@@ -39,5 +39,5 @@ module.exports = {
 **import-bem-webpack-plugin** gets several options:
 
 - `folders` - array of folders to scan (required)
-- `clear` - boolean, `true` (optional, defaults to `false`) if deletion of empty files is desired
-- `create` - boolean, `true` (optional, default value) if creation of missing files is desired
+- `clear` - boolean, `true` if deletion of empty files is desired (optional, defaults to `false`)
+- `create` - boolean, `true` if creation of missing files is desired (optional, defaults to `true`)
