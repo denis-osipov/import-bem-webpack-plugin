@@ -1,7 +1,8 @@
 {
   "name": "import-bem-webpack-plugin",
   "version": "0.1.0",
-  "description": "Imports dependencies for BEM entities",
+  "description": "Imports dependencies for BEM entities using info from Pug-files",
+  "main": "src/ImportBemWebpackPlugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,9 +13,10 @@
   "keywords": [
     "webpack",
     "BEM",
-    "dependency injection"
+    "dependency injection",
+    "Pug"
   ],
-  "author": "Denis Osipov",
+  "author": "Denis Osipov <osipov_d@list.ru>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/denis-osipov/import-bem-webpack-plugin/issues"
