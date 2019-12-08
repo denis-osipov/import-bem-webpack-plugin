@@ -12,7 +12,7 @@ const eol = require('os').EOL;
 class Importer {
   constructor(folders, clear, create) {
     this.folders = folders; // folders to scan
-    this.clear = clear; // should be always true in the new version
+    this.clear = clear; // boolean, true if deletion of empty files is desired
     this.create = create; // boolean, true if creation of missing files is desired
   }
 
