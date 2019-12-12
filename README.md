@@ -12,13 +12,13 @@ Run
 npm install import-bem-webpack-plugin
 ```
 
-or
+to add it to `dependencies` section (you want to use it in production for some reason) or
 
 ```
 npm install --save-dev import-bem-webpack-plugin
 ```
 
-to add it to your `package.json`.
+to add it to `devDependencies` section of your `package.json`.
 
 
 ## Usage
