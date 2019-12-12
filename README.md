@@ -18,8 +18,21 @@ to add it to `dependencies` section (you want to use it in production for some r
 npm install --save-dev import-bem-webpack-plugin
 ```
 
-to add it to `devDependencies` section of your `package.json`.
+to add it to `devDependencies` section of your `package.json` (most likely you should choose this option).
 
+To uninstall **import-bem-webpack-plugin** run
+
+```
+npm uninstall --save import-bem-webpack-plugin
+```
+
+or
+
+```
+npm uninstall --save-dev import-bem-webpack-plugin
+```
+
+respectively.
 
 ## Usage
 Require plugin and then use it at the first place in `plugin` section of your webpack configuration:
