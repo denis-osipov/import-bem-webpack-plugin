@@ -19,7 +19,8 @@
   "author": "Denis Osipov <osipov_d@list.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/denis-osipov/import-bem-webpack-plugin/issues"
+    "url": "https://github.com/denis-osipov/import-bem-webpack-plugin/issues",
+    "email": "osipov_d@list.ru"
   },
   "homepage": "https://github.com/denis-osipov/import-bem-webpack-plugin#readme",
   "dependencies": {
