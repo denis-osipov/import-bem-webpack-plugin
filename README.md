@@ -1,3 +1,7 @@
+# Deprecated
+
+**import-bem-webpack-plugin** is no longer supported.
+
 # import-bem-webpack-plugin
 Imports dependencies for BEM entities using info from Pug-files. It allows to use or remove blocks in other blocks or pages and don't care about importing dependencies.
 
